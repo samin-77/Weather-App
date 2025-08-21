@@ -189,10 +189,11 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - **Developer**: I.M. Samin
 - **Project**: Weather App
-- **GitHub**: [Your GitHub Profile]
+
 
 ---
 
 ⭐ **Star this repository if you found it helpful!**
 
 🌤️ **Happy Weather Checking!**
+
